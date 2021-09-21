@@ -1,1 +1,17 @@
-First
+   1  git init
+    2  git config --global user.name "bharadiya"
+    3  git config --global user.email "shashank.bharadiya@gmail.com"
+    4  git add remote origin https://github.com/bharadiya/GitPractice.git
+    5  git remote add origin https://github.com/bharadiya/GitPractice.git
+    6  git remote -v
+    7  git status
+    8  git add .
+    9  git commit -m "First "
+   10  git push origin master
+   11  gh auth login
+   12  git gh auth login
+   13  git push origin master
+   14  git checkout -b fresh
+   15  git status
+   16  git history
+   17  history
